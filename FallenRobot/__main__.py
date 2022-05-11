@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✗ 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑​ ✗", url="https://t.me/FallenXRobot?startgroup=true"),
+            text="✗ 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑​ ✗", url="https://t.me/DostanaManager_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
